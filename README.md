@@ -1,6 +1,6 @@
-# StreamDAO
+# Stream Payment Protocol
 
-The problem Stream Payment Protocol solves
+#### The problem StreamDAOs Stream Payment Protocol solves
 
 Real-time streaming can be loosely translated as a constant flow of assets from one wallet to another every second. It makes transactions much faster and also enables a trustless environment.
 
